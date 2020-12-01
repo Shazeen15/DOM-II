@@ -1,5 +1,4 @@
 // Your code goes here
-// Your code goes here
 //click event
 const navSection = document.querySelector(".container");
 navSection.addEventListener("click", (event) => {
